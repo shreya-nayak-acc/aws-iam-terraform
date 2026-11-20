@@ -31,7 +31,7 @@ resource "aws_iam_policy" "s3_read_policy" {
 
 resource "aws_iam_user_policy_attachment" "attach_policy" {
 
-  user       = aws_iam_user.s3_user.name
+  user = aws_iam_user.s3_user.name
 
   policy_arn = aws_iam_policy.s3_read_policy.arn
 }
