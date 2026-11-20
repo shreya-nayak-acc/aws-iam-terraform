@@ -1,4 +1,4 @@
-![Terraform Validation](https://github.com/shreya-nayak-acc/aws-iam-terraform/actions/workflows/terraform.yml/badge.svg)
+https://github.com/shreya-nayak-acc/aws-iam-terraform/actions/workflows/terraform.yml/badge.svg
 
 # AWS IAM Terraform
 
